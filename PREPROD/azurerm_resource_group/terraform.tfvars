@@ -1,6 +1,6 @@
 stones = {
 
- stone1 = { // nested map
+  stone1 = { // nested map
     name     = "Igneous"
     location = "westus"
 
@@ -11,5 +11,5 @@ stones = {
     location = "centralindia"
 
   }
-  
+
 }

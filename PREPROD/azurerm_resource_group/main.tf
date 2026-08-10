@@ -1,18 +1,18 @@
 resource "azurerm_resource_group" "rgs" {
 
-  for_each = var.stones  
+  for_each = var.stones
 
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
 
 
 

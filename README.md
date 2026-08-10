@@ -2,6 +2,8 @@
 
 ![Terraform Version](https://img.shields.io/badge/Terraform-v1.x.x-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure Provider](https://img.shields.io/badge/AzureRM-v4.1.0-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![tfsec Security](https://img.shields.io/badge/Security-tfsec%20Passed-blueviolet?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Status](https://img.shields.io/badge/Infrastructure-Deployed-success?style=for-the-badge)
 
 An enterprise-grade, modular Terraform repository designed for automated provisioning of multi-environment infrastructure on **Microsoft Azure**.
