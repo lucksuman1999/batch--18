@@ -80,6 +80,3 @@ This repository strictly enforces **Feature-Branch Workflows**:
 2. Create feature branches: `git checkout -b feature/<feature-name>`
 3. Validate terraform plans and submit Pull Requests.
 4. Merge into `main` after verification.
-
----
-*Maintained by Batch-18 DevOps Team*
